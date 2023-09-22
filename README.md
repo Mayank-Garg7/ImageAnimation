@@ -1,6 +1,5 @@
 # ImageAnimation
 ImageAnimation
-# Image Animation
 ![Screenshot 2023-09-22 142748](https://github.com/Mayank-Garg7/ImageAnimation/assets/113042462/c4a534a7-776e-4fbf-a55f-54b8a08267a7)
 
 This is a simple web page that displays an image gallery consisting of five images. The web page is created using HTML and styled with CSS. Each image is contained within a separate box for a visually appealing presentation.
